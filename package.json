@@ -11,5 +11,13 @@
   "devDependencies": {},
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya2311/ERT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/surya2311/ERT/issues"
+  },
+  "homepage": "https://github.com/surya2311/ERT#readme",
   "description": ""
 }
